@@ -1,5 +1,5 @@
-Hello!!!!!!!!!!!!!
-a
+Hello!!!!!!!!!!!!! This change is made from Git
+This is change made from the newGit
 b
 
 This is the final change
